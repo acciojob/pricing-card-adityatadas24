@@ -1,1 +1,45 @@
 /*  your css code here. If applicable */
+#card{
+	width:200px;
+	padding:100px;
+	background-color: silver;
+	box-shadow:0px 0px 10px;
+
+
+/* 	background-image: url(https://media.istockphoto.com/id/1170896292/photo/heart-of-autumn-yellow-orange-trees-in-forest-with-heart-shape-sunny-weather-good-day.jpg?s=2048x2048&w=is&k=20&c=dCYPxV3DCDhWHE0tcdztlrcQMBxGVooaE-kHwFz5cvo= )  */
+}
+ #image{ 
+	width:300px;
+	 position:relative;
+	 bottom:50px;
+	 right:50px;
+	
+}
+#title{
+	text-align:center;
+	margin:-50px;
+	
+
+}
+#para{
+	text-align:center;
+	padding:30px;
+	font-size:20px;
+}
+#para-1{
+	width:200px;
+	text-align:center;
+	position:relative;
+	bottom:50px;
+}
+#btn{
+	padding:10px;
+	position:relative;
+	left:60px;
+	background-color:orangered;
+	border-radius:10px;
+	border:none;
+	color:white;
+	
+	
+}
